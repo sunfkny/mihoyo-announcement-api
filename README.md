@@ -1,0 +1,1 @@
+# mihoyo-announcement-api
